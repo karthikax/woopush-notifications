@@ -5,10 +5,10 @@ Mobile device and PC Notifications plugin for wordpress woocommerce events such 
 
 ![banner](/assets/banner-772x250.png "Woopush Notifications Plugin")
 
-*Contributors: Karthik Bhat
-*Donate link: [Official Donate Page](http://mangolore.in/woopush-notifications-plugin/ "Woopush Notifications Plugin Donate Page")
-*Platform: Wordpress
-*License: GPLv2 or later
+* Contributors: Karthik Bhat
+* Donate link: [Official Donate Page](http://mangolore.in/woopush-notifications-plugin/ "Woopush Notifications Plugin Donate Page")
+* Plugin Platform: Wordpress
+* License: GPLv2 or later
 
 WooPush Notifications Plugin sends notifications to your devices on woocommerce events such as new order, low stock etc.
 
