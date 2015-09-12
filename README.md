@@ -67,15 +67,15 @@ Send Notifications to:
 Frequently Asked Questions
 --------------------------
 
-** Is this Plugin Free? **
+**Is this Plugin Free?**
 
 Yes, Its completely Free.
 
-** Do i need to register with pushbullet? **
+**Do i need to register with pushbullet?**
 
 Yes, You need to register with pushbullet to get access token through which notifications will work.
 
-** Is pushbullet registration free? **
+**Is pushbullet registration free?**
 
 Yes. Its completely free.
 
